@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "nexustalent",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b3ae17cf-691f-4421-b9fa-def87eefefbd",
+      "database_name": "NexusTalent-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
